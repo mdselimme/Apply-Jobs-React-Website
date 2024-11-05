@@ -1,0 +1,190 @@
+[
+    {
+      "id": "1",
+      "company_logo": "https://example.com/logo1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tech Innovators",
+      "location": "San Francisco, CA",
+      "salary": "$120,000 - $150,000",
+      "job_type": "Full-time",
+      "job_description": "As a Software Engineer, you'll develop, test, and maintain scalable software solutions, working with cross-functional teams to ensure high-quality code and innovative features.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "2",
+      "company_logo": "https://example.com/logo2.png",
+      "job_title": "Product Manager",
+      "company_name": "Future Tech Labs",
+      "location": "New York, NY",
+      "salary": "$110,000 - $140,000",
+      "job_type": "Full-time",
+      "job_description": "Lead product development from conception to launch. You will manage product roadmaps, work with engineering teams, and ensure that products meet customer needs and business goals.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "3",
+      "company_logo": "https://example.com/logo3.png",
+      "job_title": "UX Designer",
+      "company_name": "Creative Sparks",
+      "location": "Remote",
+      "salary": "$85,000 - $110,000",
+      "job_type": "Remote",
+      "job_description": "As a UX Designer, you will create intuitive user interfaces, conduct user research, and ensure seamless user experiences for both web and mobile applications.",
+      "job_location_type": "Home"
+    },
+    {
+      "id": "4",
+      "company_logo": "https://example.com/logo4.png",
+      "job_title": "Data Scientist",
+      "company_name": "DataMind",
+      "location": "Chicago, IL",
+      "salary": "$125,000 - $160,000",
+      "job_type": "Full-time",
+      "job_description": "Analyze complex datasets to drive business insights. You will develop models, forecast trends, and provide actionable recommendations to improve business performance.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "5",
+      "company_logo": "https://example.com/logo5.png",
+      "job_title": "Sales Executive",
+      "company_name": "Global Tech Solutions",
+      "location": "Los Angeles, CA",
+      "salary": "$70,000 - $90,000",
+      "job_type": "Full-time",
+      "job_description": "Drive new business opportunities by generating leads, managing sales cycles, and maintaining customer relationships. You'll be key in achieving revenue targets and expanding our market reach.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "6",
+      "company_logo": "https://example.com/logo6.png",
+      "job_title": "Digital Marketing Manager",
+      "company_name": "Digital Mavericks",
+      "location": "Remote",
+      "salary": "$90,000 - $120,000",
+      "job_type": "Remote",
+      "job_description": "Manage digital marketing campaigns across multiple platforms. Develop strategies, monitor performance, and optimize campaigns to achieve measurable results and drive brand growth.",
+      "job_location_type": "Home"
+    },
+    {
+      "id": "7",
+      "company_logo": "https://example.com/logo7.png",
+      "job_title": "Graphic Designer",
+      "company_name": "Design Hub",
+      "location": "Austin, TX",
+      "salary": "$60,000 - $80,000",
+      "job_type": "Full-time",
+      "job_description": "Create visually appealing designs for web, print, and digital media. Collaborate with marketing teams to produce high-quality graphics that align with brand messaging.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "8",
+      "company_logo": "https://example.com/logo8.png",
+      "job_title": "Marketing Analyst",
+      "company_name": "Smart Data Solutions",
+      "location": "Remote",
+      "salary": "$75,000 - $100,000",
+      "job_type": "Remote",
+      "job_description": "Analyze marketing data to measure campaign effectiveness. You'll provide insights and recommendations to improve marketing strategies and drive business growth.",
+      "job_location_type": "Home"
+    },
+    {
+      "id": "9",
+      "company_logo": "https://example.com/logo9.png",
+      "job_title": "Backend Developer",
+      "company_name": "CodeCrafters",
+      "location": "Seattle, WA",
+      "salary": "$130,000 - $160,000",
+      "job_type": "Full-time",
+      "job_description": "Build and maintain server-side logic, databases, and APIs for web and mobile applications. You'll collaborate closely with frontend developers to ensure seamless integration.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "10",
+      "company_logo": "https://example.com/logo10.png",
+      "job_title": "Cloud Architect",
+      "company_name": "CloudBridge",
+      "location": "Remote",
+      "salary": "$140,000 - $180,000",
+      "job_type": "Remote",
+      "job_description": "Design and implement cloud infrastructure for high-performance applications. You'll be responsible for ensuring security, scalability, and reliability across the platform.",
+      "job_location_type": "Home"
+    },
+    {
+      "id": "11",
+      "company_logo": "https://example.com/logo11.png",
+      "job_title": "Full Stack Developer",
+      "company_name": "Web Innovators",
+      "location": "Denver, CO",
+      "salary": "$120,000 - $150,000",
+      "job_type": "Full-time",
+      "job_description": "Develop both the frontend and backend of web applications. Work on building scalable systems, implementing new features, and ensuring code quality and performance.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "12",
+      "company_logo": "https://example.com/logo12.png",
+      "job_title": "HR Specialist",
+      "company_name": "PeopleWorks",
+      "location": "Miami, FL",
+      "salary": "$60,000 - $80,000",
+      "job_type": "Full-time",
+      "job_description": "Manage employee relations, recruitment, and onboarding processes. You will work with leadership to build a strong company culture and ensure compliance with labor laws.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "13",
+      "company_logo": "https://example.com/logo13.png",
+      "job_title": "Frontend Developer",
+      "company_name": "Tech Creators",
+      "location": "Remote",
+      "salary": "$100,000 - $130,000",
+      "job_type": "Remote",
+      "job_description": "Develop the client-side of web applications, focusing on user interface design and optimizing the user experience. Collaborate with designers and backend developers.",
+      "job_location_type": "Home"
+    },
+    {
+      "id": "14",
+      "company_logo": "https://example.com/logo14.png",
+      "job_title": "Business Analyst",
+      "company_name": "Visionary Enterprises",
+      "location": "Boston, MA",
+      "salary": "$85,000 - $110,000",
+      "job_type": "Full-time",
+      "job_description": "Analyze business processes and systems to identify areas for improvement. You will work with stakeholders to define requirements and create solutions that improve efficiency and performance.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "15",
+      "company_logo": "https://example.com/logo15.png",
+      "job_title": "Operations Manager",
+      "company_name": "Efficient Systems",
+      "location": "San Diego, CA",
+      "salary": "$90,000 - $120,000",
+      "job_type": "Full-time",
+      "job_description": "Oversee day-to-day operations, streamline processes, and ensure teams are meeting performance targets. You'll work to improve operational efficiency and drive company-wide initiatives.",
+      "job_location_type": "Office"
+    },
+    {
+      "id": "16",
+      "company_logo": "https://example.com/logo16.png",
+      "job_title": "Mobile App Developer",
+      "company_name": "Mobile Wizards",
+      "location": "Remote",
+      "salary": "$110,000 - $140,000",
+      "job_type": "Remote",
+      "job_description": "Develop and maintain mobile applications for iOS and Android. Collaborate with product and design teams to ensure a smooth, user-friendly experience across all platforms.",
+      "job_location_type": "Home"
+    },
+    {
+      "id": "17",
+      "company_logo": "https://example.com/logo17.png",
+      "job_title": "Software Tester",
+      "company_name": "TestTech",
+      "location": "Portland, OR",
+      "salary": "$80,000 - $100,000",
+      "job_type": "Full-time",
+      "job_description": "Test and troubleshoot software applications to identify bugs and issues. Work closely with developers to ensure the delivery of high-quality",
+      "job_location_type":"Office"
+    }
+]
+  
