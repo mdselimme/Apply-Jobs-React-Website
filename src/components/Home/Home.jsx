@@ -29,11 +29,11 @@ const Home = () => {
                     </div>
                 </div>
                 <HeaderTitle data={commonTitleData}></HeaderTitle>
+                <div className="container mx-auto grid grid-cols-4 gap-8 mb-16">
                 {
-                    category.map((data)=>{
-                        <FeatureJobs key={data.id} category={data}></FeatureJobs>
-                    })
+                    category.map((data)=> <FeatureJobs key={data.id} category={data}></FeatureJobs>)
                 }
+                </div>
             </>
     );
 };
