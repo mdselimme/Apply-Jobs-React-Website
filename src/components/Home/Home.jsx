@@ -1,3 +1,5 @@
+import { useEffect, useState } from "react";
+import FeatureJobs from "../FeatureJobs/FeatureJobs";
 import Header from "../Header/Header";
 import HeaderTitle from "../HeaderTitle/HeaderTitle";
 import Banner from "./Banner/Banner";
@@ -5,10 +7,18 @@ import Banner from "./Banner/Banner";
 
 const Home = () => {
 
+    const [category , setCategory] = useState([]);
+
     const commonTitleData = {
         header_title:"Job Category List",
         header_pargraph:"Explore diverse job categories ranging from technology and healthcare to marketing and finance, offering opportunities for every skill set."
-    }
+    };
+
+    useEffect(()=>{
+        fetch('category.json')
+        .then(res=>res.json())
+        .then(data=> setCategory(data));
+    },[])
 
     return (
             <>
@@ -19,6 +29,11 @@ const Home = () => {
                     </div>
                 </div>
                 <HeaderTitle data={commonTitleData}></HeaderTitle>
+                {
+                    category.map((data)=>{
+                        <FeatureJobs key={data.id} category={data}></FeatureJobs>
+                    })
+                }
             </>
     );
 };
