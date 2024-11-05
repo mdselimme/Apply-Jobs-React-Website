@@ -1,9 +1,10 @@
+import Header from "../Header/Header";
 
 
 const ContactPage = () => {
     return (
         <div>
-            <h1>Contact Page</h1>
+            <Header></Header>
         </div>
     );
 };

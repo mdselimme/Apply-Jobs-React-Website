@@ -1,9 +1,10 @@
+import Header from "../Header/Header";
 
 
 const ApliedJobs = () => {
     return (
         <div>
-            <h1>Aplied Jobs</h1>
+            <Header></Header>
         </div>
     );
 };

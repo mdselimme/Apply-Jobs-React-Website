@@ -1,9 +1,10 @@
+import Header from "../Header/Header";
 
 
 const Blogs = () => {
     return (
         <div>
-            <h1>Blogs</h1>
+            <Header></Header>
         </div>
     );
 };
