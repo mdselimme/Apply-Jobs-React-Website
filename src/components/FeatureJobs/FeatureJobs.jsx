@@ -1,9 +1,10 @@
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
 
 
 const FeatureJobs = ({jobs}) => {
     
-    const {company_logo, job_title, company_name, location, salary, job_type, job_location_type} = jobs;
+    const {company_logo, job_title, id, company_name, location, salary, job_type, job_location_type} = jobs;
 
     return (
         <div className="rounded-2xl p-10">
@@ -18,6 +19,7 @@ const FeatureJobs = ({jobs}) => {
                 <p>{location}</p>
                 <p>{salary}</p>
             </div>
+            <Link to={`/jobdetails/${id}`}>View Details</Link>
         </div>
     );
 };

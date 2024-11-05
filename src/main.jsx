@@ -8,6 +8,7 @@ import ContactPage from './components/ContactPage/ContactPage.jsx';
 import ApliedJobs from './components/ApliedJobs/ApliedJobs.jsx';
 import Blogs from './components/Blogs/Blogs.jsx';
 import Login from './components/Login/Login.jsx';
+import JobDetails from './components/JobDetails/JobDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
   {
     path:"/login",
     element: <Login />
+  },
+  {
+    path:"/jobdetails/:jobId",
+    element: <JobDetails />
   },
 ]);
 
