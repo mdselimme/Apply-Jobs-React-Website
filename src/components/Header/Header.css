@@ -1,4 +1,4 @@
-.menu .active{
+.menu .active, .active{
   background: -webkit-linear-gradient(#7E90FE, #9873FF);
   -webkit-background-clip: text;
             background-clip: text;
