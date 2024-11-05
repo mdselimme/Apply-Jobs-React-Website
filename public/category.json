@@ -1,0 +1,29 @@
+[
+    {
+      "id": "001",
+      "title": "Software Development",
+      "available_jobs": 215,
+      "image": "https://i.ibb.co.com/kgLqky1/creative.png"
+    },
+    {
+      "id": "002",
+      "title": "Marketing & Sales",
+      "available_jobs": 150,
+      "image": "https://i.ibb.co.com/6ZFZmxm/accounts.png"
+    },
+    {
+      "id": "004",
+      "title": "Finance & Accounting",
+      "available_jobs": 102,
+      "image": "https://i.ibb.co.com/ZLj5LvN/marketing.png"
+    },
+    {
+      "id": "se001",
+      "title": "Software Engineer",
+      "available_jobs": 85,
+      "image": "https://i.ibb.co.com/GF5GD5N/chip.png"
+    }
+]
+
+
+
