@@ -1,0 +1,12 @@
+.menu .active{
+  background: -webkit-linear-gradient(#7E90FE, #9873FF);
+  -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bg-common{
+    background: -webkit-linear-gradient(#7E90FE, #9873FF);
+    color: #ffffff;
+    padding: 0.7rem 2rem;
+}
